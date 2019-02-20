@@ -1,0 +1,428 @@
+info_begin
+format: 2
+mpd_version: 0.21.1
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumSort
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: OriginalDate
+tag: Composer
+tag: Performer
+tag: Disc
+tag: Label
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+tag: MUSICBRAINZ_RELEASETRACKID
+tag: MUSICBRAINZ_WORKID
+info_end
+directory: nowhere
+mtime: 1541442834
+begin: nowhere
+song_begin: 01. Prima Stella.flac
+Time: 266.920000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Prima Stella
+Track: 1
+Format: 44100:16:2
+mtime: 1526537786
+song_end
+song_begin: 02. Stella-rium.flac
+Time: 247.024000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Stella-rium
+Track: 2
+Format: 44100:16:2
+mtime: 1526537804
+song_end
+song_begin: 03. Dear Brave.flac
+Time: 259.562000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Dear Brave
+Track: 3
+Format: 44100:16:2
+mtime: 1526537816
+song_end
+song_begin: 04. Koso Ado Kotonoha.flac
+Time: 264.761000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Koso Ado Kotonoha
+Track: 4
+Format: 44100:16:2
+mtime: 1526537830
+song_end
+song_begin: 05. Ima wo Kakeru Shoujo.flac
+Time: 263.449000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Ima wo Kakeru Shoujo
+Track: 5
+Format: 44100:16:2
+mtime: 1526537844
+song_end
+song_begin: 06. Himekoi.flac
+Time: 268.059000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Himekoi
+Track: 6
+Format: 44100:16:2
+mtime: 1526537862
+song_end
+song_begin: 07. Walk This Way!.flac
+Time: 248.447000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Walk This Way!
+Track: 7
+Format: 44100:16:2
+mtime: 1526537886
+song_end
+song_begin: 08. JUMP! JUMP! JUMP!.flac
+Time: 225.269000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: JUMP! JUMP! JUMP!
+Track: 8
+Format: 44100:16:2
+mtime: 1526537900
+song_end
+song_begin: 09. Toy-toi.flac
+Time: 215.318000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: Toy-toi
+Track: 9
+Format: 44100:16:2
+mtime: 1526537912
+song_end
+song_begin: 10. evergreen.flac
+Time: 267.442000
+Album: Nowhere (Regular Edition)
+AlbumArtist: Kano
+Artist: Kano
+Date: 2016
+Disc: 1
+Genre: J-Pop / Soft-Rock/ Utaite
+Title: evergreen
+Track: 10
+Format: 44100:16:2
+mtime: 1526537924
+song_end
+end: nowhere
+directory: Yunomi
+mtime: 1541441969
+begin: Yunomi
+song_begin: Yunomi - ゆのもきゅ - 01 めんたいコズミック (feat. nicamoq).flac
+Time: 224.598000
+Title: めんたいコズミック (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 1
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535056
+song_end
+song_begin: Aiobahn _ Yunomi - ゆのもきゅ - 02 枕元にゴースト (feat. nicamoq).flac
+Time: 224.262000
+Title: 枕元にゴースト (feat. nicamoq)
+Artist: Aiobahn & Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 2
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535014
+song_end
+song_begin: Yunomi - ゆのもきゅ - 03 ロボティックガール (feat. nicamoq).flac
+Time: 263.166000
+Title: ロボティックガール (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 3
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535076
+song_end
+song_begin: Yunomi _ nicamoq - ゆのもきゅ - 04 インドア系ならトラックメイカー.flac
+Time: 195.585000
+Title: インドア系ならトラックメイカー
+Artist: Yunomi & nicamoq
+Date: 2017
+Album: ゆのもきゅ
+Track: 4
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535038
+song_end
+song_begin: Yunomi - ゆのもきゅ - 05 ゆのみっくにお茶して (feat. nicamoq).flac
+Time: 193.500000
+Title: ゆのみっくにお茶して (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 5
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535088
+song_end
+song_begin: Yunomi - ゆのもきゅ - 06 サンデーモーニングコーヒー (feat. nicamoq).flac
+Time: 210.086000
+Title: サンデーモーニングコーヒー (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 6
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535108
+song_end
+song_begin: Yunomi - ゆのもきゅ - 07 星降る夜のアデニウム (feat. nicamoq).flac
+Time: 267.046000
+Title: 星降る夜のアデニウム (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 7
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535126
+song_end
+song_begin: Yunomi - ゆのもきゅ - 08 東京シュノーケル (feat. nicamoq).flac
+Time: 168.890000
+Title: 東京シュノーケル (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 8
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535138
+song_end
+song_begin: Yunomi - ゆのもきゅ - 09 守護霊 (feat. nicamoq).flac
+Time: 204.773000
+Title: 守護霊 (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 9
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535154
+song_end
+song_begin: Yunomi - ゆのもきゅ - 10 ココロフロート (feat. nicamoq).flac
+Time: 278.360000
+Title: ココロフロート (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 10
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535174
+song_end
+song_begin: Yunomi - ゆのもきゅ - 11 ダンスフロアの果実 (feat. nicamoq).flac
+Time: 230.086000
+Title: ダンスフロアの果実 (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 11
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535186
+song_end
+song_begin: Yunomi - ゆのもきゅ - 12 明けない夜、醒めない夢 (feat. nicamoq).flac
+Time: 227.871000
+Title: 明けない夜、醒めない夢 (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 12
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535198
+song_end
+song_begin: Yunomi - ゆのもきゅ - 13 神様の渦 (feat. nicamoq).flac
+Time: 251.120000
+Title: 神様の渦 (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 13
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535216
+song_end
+song_begin: Aiobahn _ Yunomi - ゆのもきゅ - 14 銀河鉄道のペンギン (feat. nicamoq).flac
+Time: 201.600000
+Title: 銀河鉄道のペンギン (feat. nicamoq)
+Artist: Aiobahn & Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 14
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535026
+song_end
+song_begin: Yunomi - ゆのもきゅ - 15 サ・ク・ラ・サ・ク (feat. nicamoq).flac
+Time: 244.224000
+Title: サ・ク・ラ・サ・ク (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 15
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535230
+song_end
+song_begin: Yunomi - ゆのもきゅ - 16 夢でまたあえたらなあ (feat. nicamoq).flac
+Time: 197.273000
+Title: 夢でまたあえたらなあ (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 16
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535242
+song_end
+song_begin: Yunomi - ゆのもきゅ - 17 ハッピーライフ (feat. nicamoq).flac
+Time: 217.261000
+Title: ハッピーライフ (feat. nicamoq)
+Artist: Yunomi
+Date: 2017
+Album: ゆのもきゅ
+Track: 17
+AlbumArtist: Yunomi
+Format: 44100:16:2
+mtime: 1526535254
+song_end
+end: Yunomi
+directory: 鹿乃 - two
+mtime: 1541441970
+begin: 鹿乃 - two
+song_begin: 01. 曖昧劣情Lover.mp3
+Time: 216.032000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: 曖昧劣情Lover
+Album: two
+Track: 1
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+song_begin: 02. いかないで.mp3
+Time: 182.752000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: いかないで
+Album: two
+Track: 2
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+song_begin: 03. 嘘つきの世界.mp3
+Time: 208.169000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: 嘘つきの世界
+Album: two
+Track: 3
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+song_begin: 04. キササゲ.mp3
+Time: 276.715000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: キササゲ
+Album: two
+Track: 4
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+song_begin: 05. 雨き声残響.mp3
+Time: 179.826000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: 雨き声残響
+Album: two
+Track: 5
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+song_begin: 06. 夜明けと蛍.mp3
+Time: 327.131000
+Artist: 鹿乃
+AlbumArtist: 鹿乃
+Title: 夜明けと蛍
+Album: two
+Track: 6
+Date: 2018
+Genre: Album
+Format: 44100:24:2
+mtime: 1534653402
+song_end
+end: 鹿乃 - two

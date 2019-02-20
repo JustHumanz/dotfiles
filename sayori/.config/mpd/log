@@ -1,0 +1,44 @@
+Nov 06 01:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 01:17 : exception: Failed to open '/home/humanz/.config/mpd/state': No such file or directory
+Nov 06 01:17 : config: option 'options' on line 10 was not recognized
+Nov 06 01:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 01:17 : config: option 'options' on line 10 was not recognized
+Nov 06 01:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 01:18 : config: option 'options' on line 10 was not recognized
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 08 東京シュノーケル (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Aiobahn _ Yunomi - ゆのもきゅ - 14 銀河鉄道のペンギン (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi _ nicamoq - ゆのもきゅ - 04 インドア系ならトラックメイカー.flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 05 ゆのみっくにお茶して (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 11 ダンスフロアの果実 (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 15 サ・ク・ラ・サ・ク (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 17 ハッピーライフ (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 16 夢でまたあえたらなあ (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 12 明けない夜、醒めない夢 (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 06 サンデーモーニングコーヒー (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 07 星降る夜のアデニウム (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Aiobahn _ Yunomi - ゆのもきゅ - 02 枕元にゴースト (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 01 めんたいコズミック (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 03 ロボティックガール (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 13 神様の渦 (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 09 守護霊 (feat. nicamoq).flac
+Nov 06 01:30 : update: added Yunomi/Yunomi - ゆのもきゅ - 10 ココロフロート (feat. nicamoq).flac
+Nov 06 01:30 : update: added 鹿乃 - two/01. 曖昧劣情Lover.mp3
+Nov 06 01:30 : update: added 鹿乃 - two/02. いかないで.mp3
+Nov 06 01:30 : update: added 鹿乃 - two/03. 嘘つきの世界.mp3
+Nov 06 01:30 : update: added 鹿乃 - two/04. キササゲ.mp3
+Nov 06 01:30 : update: added 鹿乃 - two/05. 雨き声残響.mp3
+Nov 06 01:30 : update: added 鹿乃 - two/06. 夜明けと蛍.mp3
+Nov 06 01:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 01:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 01:30 : player: played "鹿乃 - two/01. 曖昧劣情Lover.mp3"
+Nov 06 01:34 : update: added nowhere/08. JUMP! JUMP! JUMP!.flac
+Nov 06 01:34 : update: added nowhere/10. evergreen.flac
+Nov 06 01:34 : update: added nowhere/07. Walk This Way!.flac
+Nov 06 01:34 : update: added nowhere/09. Toy-toi.flac
+Nov 06 01:34 : update: added nowhere/02. Stella-rium.flac
+Nov 06 01:34 : update: added nowhere/04. Koso Ado Kotonoha.flac
+Nov 06 01:34 : update: added nowhere/01. Prima Stella.flac
+Nov 06 01:34 : update: added nowhere/06. Himekoi.flac
+Nov 06 01:34 : update: added nowhere/03. Dear Brave.flac
+Nov 06 01:34 : update: added nowhere/05. Ima wo Kakeru Shoujo.flac
+Nov 06 01:35 : player: played "nowhere/10. evergreen.flac"

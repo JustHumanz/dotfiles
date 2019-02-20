@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="apps-accessories-menu" label=" Accessories">
+		<item label=" Calculator">
+			<action name="Execute">
+				<command>gnome-calculator</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label=" Wallpaper">
+			<action name="Execute">
+				<execute>nitrogen</execute>
+			</action>
+		</item>
+		<item label="Character">
+			<action name="Execute">
+				<execute>gucharmap</execute>
+			</action>
+		</item>
+		<item label="Character Map">
+			<action name="Execute">
+				<command>gnome-character-map</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-office-menu" label=" Office">
+		<item label="Libreoffice Impress">
+			<action name="Execute">
+				<execute>Libreoffice --impress</execute>
+			</action>
+		</item>
+		<item label="Libreoffice Calc">
+			<action name="Execute">
+				<execute>Libreoffice --calc</execute>
+			</action>
+		</item>
+		<item label="Libreoffice Writer">
+			<action name="Execute">
+				<execute>libreoffice --writer</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="link-66466" label=" Web">
+		<item label="Telegram desktop">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Reddit">
+			<action name="Execute">
+				<execute>firefox reddit.com</execute>
+			</action>
+		</item>
+		<item label="4chan">
+			<action name="Execute">
+				<execute>firefox 4chan.org</execute>
+			</action>
+		</item>
+		<item label="Google">
+			<action name="Execute">
+				<execute>firefox google.com</execute>
+			</action>
+		</item>
+		<item label="Youtube">
+			<action name="Execute">
+				<execute>firefox youtube.com</execute>
+			</action>
+		</item>
+		<item label="Facebook">
+			<action name="Execute">
+				<execute>firefox facebook.com</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="link-404835" label=" Programing">
+		<item label="TeamSQL">
+			<action name="Execute">
+				<execute>/opt/teamsql/Teamsql.AppImage</execute>
+			</action>
+		</item>
+		<item label="Mysql-Workbench">
+			<action name="Execute">
+				<execute>mysql-workbench</execute>
+			</action>
+		</item>
+		<item label="Atom">
+			<action name="Execute">
+				<execute>atom</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-editors-menu" label=" Editors">
+		<item label="Gedit">
+			<action name="Execute">
+				<command>gedit</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Leafpad">
+			<action name="Execute">
+				<execute>leafpad</execute>
+			</action>
+		</item>
+		<item label="Notepad">
+			<action name="Execute">
+				<execute>wine notepad.exe</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-term-menu" label=" Terminals">
+		<item label="Rxvt Unicode">
+			<action name="Execute">
+				<command>urxvt</command>
+			</action>
+		</item>
+		<item label="Termite">
+			<action name="Execute">
+				<execute>termite</execute>
+			</action>
+		</item>
+		<item label="Gnome Terminal">
+			<action name="Execute">
+				<command>gnome-terminal</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Xfce Terminal">
+			<action name="Execute">
+				<command>xfce4-terminal</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Xterm">
+			<action name="Execute">
+				<command>xterm</command>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-net-menu" label=" Internet">
+		<item label="Wireshark">
+			<action name="Execute">
+				<execute>wireshark</execute>
+			</action>
+		</item>
+		<item label="Winbox">
+			<action name="Execute">
+				<execute>wine /opt/winbox/winbox.exe</execute>
+			</action>
+		</item>
+		<item label="Firefox">
+			<action name="Execute">
+				<command>firefox</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+					<wmclass>Firefox</wmclass>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-multimedia-menu" label=" Multimedia">
+		<item label="Vlc">
+			<action name="Execute">
+				<execute>vlc</execute>
+			</action>
+		</item>
+		<item label="Screen Recorder">
+			<action name="Execute">
+				<execute>simplescreenrecorder</execute>
+			</action>
+		</item>
+		<item label="Mpv">
+			<action name="Execute">
+				<execute>mpv</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-fileman-menu" label=" File Managers">
+		<item label="Nautilus">
+			<action name="Execute">
+				<execute>nautilus</execute>
+			</action>
+		</item>
+		<item label="Thunar">
+			<action name="Execute">
+				<execute>thunar</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-graphics-menu" label=" Graphics">
+		<item label="Feh">
+			<action name="Execute">
+				<execute>feh</execute>
+			</action>
+		</item>
+		<item label="Gimp">
+			<action name="Execute">
+				<command>gimp</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="system-menu" label="System">
+		<item label="Openbox Menu Editor">
+			<action name="Execute">
+				<execute>obmenu</execute>
+			</action>
+		</item>
+		<item label="Openbox Configuration Manager">
+			<action name="Execute">
+				<command>obconf</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<separator label="Applications"/>
+		<menu id="apps-accessories-menu"/>
+		<menu id="link-66466"/>
+		<menu id="apps-editors-menu"/>
+		<menu id="apps-graphics-menu"/>
+		<menu id="link-404835"/>
+		<menu id="apps-net-menu"/>
+		<menu id="apps-office-menu"/>
+		<menu id="apps-multimedia-menu"/>
+		<menu id="apps-term-menu"/>
+		<menu id="apps-fileman-menu"/>
+		<separator label="System"/>
+		<menu id="system-menu"/>
+		<separator/>
+		<item label="Log Out">
+			<action name="Exit">
+				<prompt>yes</prompt>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>
