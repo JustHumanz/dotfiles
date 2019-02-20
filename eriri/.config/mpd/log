@@ -1,0 +1,137 @@
+Feb 19 23:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 23:39 : exception: Failed to open '/home/humanz/.config/mpd/state': No such file or directory
+Feb 19 23:39 : config: option 'options' on line 10 was not recognized
+Feb 19 23:39 : update: added /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3
+Feb 19 23:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 23:39 : config: option 'options' on line 10 was not recognized
+Feb 19 23:40 : update: added /Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3
+Feb 19 23:40 : update: added /Trysail - Adrenaline!!!.flac
+Feb 19 23:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 23:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 23:51 : update: removing Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3
+Feb 19 23:51 : update: removing [SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3
+Feb 19 23:51 : update: removing Trysail - Adrenaline!!!.flac
+Feb 19 23:51 : update: added Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3
+Feb 19 23:51 : update: added Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3
+Feb 19 23:51 : update: added Trysail/Trysail - Adrenaline!!!.flac
+Feb 19 23:51 : update: added Trysail/01. whiz.mp3
+Feb 19 23:51 : update: added Trysail/_ACHanime__vivid_brilliant_door_.mp3
+Feb 19 23:51 : update: added Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3
+Feb 19 23:59 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 00:05 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 00:09 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 00:14 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 00:16 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 00:24 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 00:28 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 00:32 : player: played "Trysail/01. whiz.mp3"
+Feb 20 00:37 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 00:42 : player: played "Trysail/01. whiz.mp3"
+Feb 20 00:50 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 00:54 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 00:58 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 01:02 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 01:10 : player: played "Trysail/01. whiz.mp3"
+Feb 20 01:14 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 01:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 01:14 : config: option 'options' on line 10 was not recognized
+Feb 20 01:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 01:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 01:18 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 01:23 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 01:27 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 01:31 : player: played "Trysail/01. whiz.mp3"
+Feb 20 01:37 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 01:41 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 01:43 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 01:50 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 01:55 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 02:00 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 02:03 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 02:08 : player: played "Trysail/01. whiz.mp3"
+Feb 20 02:13 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 02:17 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 02:22 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 02:26 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 02:30 : player: played "Trysail/01. whiz.mp3"
+Feb 20 02:35 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 02:39 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 02:44 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 02:47 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 02:52 : player: played "Trysail/01. whiz.mp3"
+Feb 20 03:00 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 03:04 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 03:08 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 03:12 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 03:17 : player: played "Trysail/01. whiz.mp3"
+Feb 20 03:19 : update: added Kano/01 - Lily, Lily.flac
+Feb 20 03:26 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 03:31 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 03:35 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 03:39 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 03:45 : player: played "Trysail/01. whiz.mp3"
+Feb 20 03:49 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 04:06 : update: added Kano/センチメンタルな愛慕心　歌いました【鹿乃】.mp3
+Feb 20 04:06 : update: added Kano/【鹿乃】妄想感傷代償連盟【中文字幕】.mp3
+Feb 20 04:06 : player: played "Kano/【鹿乃】妄想感傷代償連盟【中文字幕】.mp3"
+Feb 20 04:10 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 04:13 : update: removing Kano/【鹿乃】妄想感傷代償連盟【中文字幕】.mp3
+Feb 20 04:13 : update: added Kano/妄想感傷代償連盟 - 鹿乃.mp3
+Feb 20 04:13 : update: added Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3
+Feb 20 04:13 : update: removing Kano/センチメンタルな愛慕心　歌いました【鹿乃】.mp3
+Feb 20 04:18 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 04:30 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 04:34 : player: played "Trysail/01. whiz.mp3"
+Feb 20 04:38 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 04:41 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 04:53 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 04:57 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 05:11 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 05:16 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 05:22 : player: played "Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3"
+Feb 20 05:31 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 05:36 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 05:40 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 05:43 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 05:48 : player: played "Trysail/01. whiz.mp3"
+Feb 20 05:52 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 05:55 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 05:59 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 06:07 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 06:12 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 06:16 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 06:19 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 06:24 : player: played "Trysail/01. whiz.mp3"
+Feb 20 06:27 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 06:31 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 06:35 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 06:40 : player: played "Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3"
+Feb 20 06:45 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 06:49 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 06:53 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 06:57 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 07:02 : player: played "Trysail/01. whiz.mp3"
+Feb 20 07:05 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 07:09 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 07:13 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 07:19 : player: played "Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3"
+Feb 20 07:23 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 07:28 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 07:32 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"
+Feb 20 07:36 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 07:46 : player: played "Trysail/01. whiz.mp3"
+Feb 20 07:50 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 07:53 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 07:58 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 08:06 : player: played "Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3"
+Feb 20 08:10 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 08:17 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 08:21 : player: played "Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3"
+Feb 20 08:25 : player: played "Trysail/01. whiz.mp3"
+Feb 20 08:29 : player: played "Kano/01 - Lily, Lily.flac"
+Feb 20 08:32 : player: played "Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3"
+Feb 20 11:23 : player: played "Kano/妄想感傷代償連盟 - 鹿乃.mp3"
+Feb 20 11:31 : player: played "Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3"
+Feb 20 11:36 : player: played "Trysail/_ACHanime__vivid_brilliant_door_.mp3"
+Feb 20 11:40 : player: played "Trysail/Trysail - Adrenaline!!!.flac"
+Feb 20 11:44 : player: played "Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3"

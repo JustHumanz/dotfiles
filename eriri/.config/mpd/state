@@ -1,0 +1,24 @@
+sw_volume: 68
+audio_device_state:1:My Pulse Output
+audio_device_state:1:My fifo output
+state: pause
+current: 4
+time: 200.811000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Stereopony /[SakuraFrom] stereopony - Tsukiakari no Michishirube.mp3
+1:Trysail/_ACHanime__vivid_brilliant_door_.mp3
+2:Trysail/Trysail - Adrenaline!!!.flac
+3:Trysail/_ACHanime__Youthful_Dreamer_by_TrySail.mp3
+4:Kano/Last Note. feat. 鹿乃 – ギガンティックO.T.N  Gigantic O.T.N.mp3
+5:Trysail/01. whiz.mp3
+6:Kano/01 - Lily, Lily.flac
+7:Kano/センチメンタルな愛慕心　歌いました - 鹿乃.mp3
+8:Kano/妄想感傷代償連盟 - 鹿乃.mp3
+playlist_end
