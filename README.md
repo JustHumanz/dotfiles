@@ -18,6 +18,7 @@ WM  : i3
 Music : Ncmpcpp  
 Bar : Polybar  
 System info : U-fetch  
+<p align="center"> Eriri </p>
 
 ![eriri](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/eriri/ss.png)  
 
