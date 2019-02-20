@@ -18,3 +18,11 @@ WM  : i3
 Music : Ncmpcpp  
 Bar : Polybar  
 System info : U-fetch  
+
+![eriri](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/eriri/ss.png)  
+
+OS  : Arch Linux  
+WM  : i3   
+Music : Ncmpcpp  
+Bar : Polybar  
+System info : U-fetch  
