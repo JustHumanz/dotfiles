@@ -27,3 +27,11 @@ WM  : i3
 Music : Ncmpcpp  
 Bar : Polybar  
 System info : U-fetch  
+<p align="center"> Min-City </p>  
+
+![min-city](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/min-city/back.png)  
+
+OS  : Arch Linux  
+WM  : OpenBox  
+Bar : Xfce4-Panel  
+System info : U-fetch  
