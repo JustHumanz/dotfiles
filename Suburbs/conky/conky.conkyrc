@@ -1,0 +1,37 @@
+background yes
+use_xft yes
+xftfont 123:size=8
+xftalpha 0.1
+update_interval 2
+total_run_times 0
+own_window yes
+own_window_type normal
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 300 200
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color gray
+default_shade_color red
+default_outline_color green
+alignment top_left
+gap_x 0
+gap_y 0
+no_buffers yes
+uppercase no
+override_utf8_locale no
+use_spacer left
+own_window_argb_value 0
+own_window_argb_visual no
+own_window_colour 000000
+override_utf8_locale true
+TEXT
+${image ~/.config/conky/img/bg.png}
+${voffset 0}${font UbuntuMono Nerd Font:size=20}${color e77f67}Uptime  ${color ffffff}${uptime_short}
+${voffset 20}${font UbuntuMono Nerd Font:size=20}${color ffffff}Temp ${if_match ${hwmon 0 temp 1} <60}${color 63cdda}${hwmon 0 temp 1}°C${color}${else}${if_match ${hwmon 0 temp 1} >60}${color c44569}${hwmon 0 temp 1}°C${color}${else}${color ff793f}${hwmon 0 temp 1}°C${color}${endif}${endif}
+${voffset 20}${font UbuntuMono Nerd Font:size=13}${color ffffff}${upspeed wlp9s0}${image ~/.config/conky/img/up.png -s 30x30 -p 60,110}${font UbuntuMono Nerd Font:size=10}${offset 40}${addr wlp9s0}
+${voffset 40}${font UbuntuMono Nerd Font:size=13}${color ffffff}${downspeed wlp9s0}${image ~/.config/conky/img/down.png -s 30x30 -p 60,170}${font UbuntuMono Nerd Font:size=10}${offset 40}${execi 300 curl ifconfig.me}
+${voffset -96}${offset 70}${font UbuntuMono Nerd Font:size=80}${color ffffff}|${voffset -20}${offset -10}${font UbuntuMono Nerd Font:size=30}${color 33d9b2}Speed

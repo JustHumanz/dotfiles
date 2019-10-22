@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="root-menu" label="OpenBox">
+		<menu id="root-menu-933547" label="Network">
+			<item label="Google Chrome">
+				<action name="Execute">
+					<execute>google-chrome-stable</execute>
+				</action>
+			</item>
+			<item label="Firefox">
+				<action name="Execute">
+					<execute>firefox</execute>
+				</action>
+			</item>
+			<item label="GNS3">
+				<action name="Execute">
+					<execute>gns</execute>
+				</action>
+			</item>
+			<item label="Winbox">
+				<action name="Execute">
+					<execute>winbox</execute>
+				</action>
+			</item>
+			<item label="Wireshark">
+				<action name="Execute">
+					<execute>wireshark</execute>
+				</action>
+			</item>
+			<item label="Onion Network">
+				<action name="Execute">
+					<execute>tor-browser</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-433730" label="File Manager">
+			<item label="Thunar">
+				<action name="Execute">
+					<execute>thunar</execute>
+				</action>
+			</item>
+			<item label="Nautilus">
+				<action name="Execute">
+					<execute>nautilus</execute>
+				</action>
+			</item>
+			<menu id="root-menu-433730-235712" label="Mount file system">
+				<item label="Data C: (windows)">
+					<action name="Execute">
+						<execute>thunar /run/media/humanz/F82EB24B2EB20324</execute>
+					</action>
+				</item>
+				<item label="Data">
+					<action name="Execute">
+						<execute>thunar /run/media/humanz/Data</execute>
+					</action>
+				</item>
+			</menu>
+		</menu>
+		<menu id="root-menu-93385" label="Editor">
+			<item label="Leafpad">
+				<action name="Execute">
+					<execute>leafpad</execute>
+				</action>
+			</item>
+			<item label="Gedit">
+				<action name="Execute">
+					<execute>gedit</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-354645" label="Multimedia">
+			<item label="Spotify">
+				<action name="Execute">
+					<execute>spotify</execute>
+				</action>
+			</item>
+			<item label="Volume">
+				<action name="Execute">
+					<execute>termite -e pulsemixer</execute>
+				</action>
+			</item>
+			<item label="Gnome-Screenshot">
+				<action name="Execute">
+					<execute>gnome-screenshot -i</execute>
+				</action>
+			</item>
+			<item label="Pulseaudio equalizer">
+				<action name="Execute">
+					<execute>pulseaudio-equalizer-gtk</execute>
+				</action>
+			</item>
+			<item label="Screen Recorder">
+				<action name="Execute">
+					<execute>simplescreenrecorder</execute>
+				</action>
+			</item>
+			<item label="VLC">
+				<action name="Execute">
+					<execute>vlc</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-42284" label="Programming">
+			<item label="VirtualBox">
+				<action name="Execute">
+					<execute>VirtualBox</execute>
+				</action>
+			</item>
+			<item label="Android Studio">
+				<action name="Execute">
+					<execute>android-studio</execute>
+				</action>
+			</item>
+			<item label="Python 3.7">
+				<action name="Execute">
+					<execute>termite -e python</execute>
+				</action>
+			</item>
+			<item label="Mysql Workbench">
+				<action name="Execute">
+					<execute>mysql-workbench</execute>
+				</action>
+			</item>
+			<item label="Atom">
+				<action name="Execute">
+					<execute>atom</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-724346" label="Office">
+			<item label="Writer">
+				<action name="Execute">
+					<execute>libreoffice --writer</execute>
+				</action>
+			</item>
+			<item label="Calc">
+				<action name="Execute">
+					<execute>libreoffice --calc</execute>
+				</action>
+			</item>
+			<item label="Math">
+				<action name="Execute">
+					<execute>libreoffice --math</execute>
+				</action>
+			</item>
+			<item label="Draw">
+				<action name="Execute">
+					<execute>libreoffice --impress</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-24217" label="Social Media">
+			<item label="VK">
+				<action name="Execute">
+					<execute>firefox https://vk.com</execute>
+				</action>
+			</item>
+			<item label="Reddit">
+				<action name="Execute">
+					<execute>firefox https://reddit.com</execute>
+				</action>
+			</item>
+			<item label="Facebook">
+				<action name="Execute">
+					<execute>firefox https://facebook.com</execute>
+				</action>
+			</item>
+			<item label="Telegram">
+				<action name="Execute">
+					<execute>telegram-desktop</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-92371" label="LAMP">
+			<item label="Start ALL">
+				<action name="Execute">
+					<execute>termite -e &quot;sudo systemctl start nginx.service php-fpm.service mariadb.service&quot;</execute>
+				</action>
+			</item>
+			<item label="Start Php-Fpm">
+				<action name="Execute">
+					<execute>termite -e sudo systemctl start php-fpm.service</execute>
+				</action>
+			</item>
+			<item label="Start Mariadb">
+				<action name="Execute">
+					<execute>termite -e sudo systemctl start mariadb.service</execute>
+				</action>
+			</item>
+			<item label="Start Nginx">
+				<action name="Execute">
+					<execute>termite -e sudo systemctl start nginx.service</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-444453" label="Monitoring">
+			<item label="Start ALL">
+				<action name="Execute">
+					<execute>termite -e &quot;sudo systemctl start prometheus.service grafana.service&quot;</execute>
+				</action>
+			</item>
+			<item label="Start Prometheus">
+				<action name="Execute">
+					<execute>termite -e &quot;systemctl start prometheus.service&quot;</execute>
+				</action>
+			</item>
+			<item label="Start Grafana">
+				<action name="Execute">
+					<execute>termite -e &quot;systemctl start grafana.service&quot;</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="root-menu-954926" label="Terminal ">
+			<item label="Xfce4-Terminal">
+				<action name="Execute">
+					<execute>xfce4-terminal</execute>
+				</action>
+			</item>
+			<item label="Urxvt">
+				<action name="Execute">
+					<execute>urxvt</execute>
+				</action>
+			</item>
+			<item label="Gnome-Terminal">
+				<action name="Execute">
+					<execute>gnome-terminal</execute>
+				</action>
+			</item>
+			<item label="Termite">
+				<action name="Execute">
+					<execute>termite --title=Humanz --config ~/.config/termite/config</execute>
+				</action>
+			</item>
+		</menu>
+		<separator label="System"/>
+		<menu id="root-menu-65392" label="System-config">
+			<item label="Openbox restart">
+				<action name="Execute">
+					<execute>openbox --restart</execute>
+				</action>
+			</item>
+			<item label="Ob-conf">
+				<action name="Execute">
+					<execute>obconf</execute>
+				</action>
+			</item>
+			<item label="Nitrogen">
+				<action name="Execute">
+					<execute>nitrogen</execute>
+				</action>
+			</item>
+			<item label="Ob-menu">
+				<action name="Execute">
+					<execute>obmenu</execute>
+				</action>
+			</item>
+		</menu>
+		<separator label="Power"/>
+		<menu id="root-menu-792121" label="Power">
+			<item label="Openbox Exit">
+				<action name="Execute">
+					<execute>openbox --exit</execute>
+				</action>
+			</item>
+			<item label="Suspend">
+				<action name="Execute">
+					<execute>systemctl suspend</execute>
+				</action>
+			</item>
+			<item label="Hibernate">
+				<action name="Execute">
+					<execute>systemctl suspend-then-hibernate</execute>
+				</action>
+			</item>
+			<item label="Reboot">
+				<action name="Execute">
+					<execute>systemctl reboot</execute>
+				</action>
+			</item>
+			<item label="Shutdown">
+				<action name="Execute">
+					<execute>systemctl poweroff</execute>
+				</action>
+			</item>
+		</menu>
+	</menu>
+</openbox_menu>

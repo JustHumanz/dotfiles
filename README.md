@@ -43,3 +43,11 @@ OS  : Arch Linux
 WM  : OpenBox  
 Bar : Xfce4-Panel  
 System info : U-fetch  
+<p align="center"> Cat-Mid </p>  
+
+![Suburbs](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Suburbs/wall.png)  
+
+OS  : Arch Linux  
+WM  : OpenBox  
+Bar : Polybar  
+System info : U-fetch  

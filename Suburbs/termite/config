@@ -1,0 +1,97 @@
+[options]
+#allow_bold = true
+#audible_bell = false
+#bold_is_bright = true
+#cell_height_scale = 1.0
+#cell_width_scale = 1.0
+#clickable_url = true
+dynamic_title = false
+#title ="Humanz"
+font = Monospace 9
+#fullscreen = true
+icon_name = terminal
+#mouse_autohide = false
+#scroll_on_output = false
+#scroll_on_keystroke = true
+# Length of the scrollback buffer, 0 disabled the scrollback buffer
+# and setting it to a negative value means "infinite scrollback"
+scrollback_lines = 10000
+#search_wrap = true
+#urgent_on_bell = true
+#hyperlinks = false
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+#browser = xdg-open
+
+# "system", "on" or "off"
+cursor_blink = on
+
+# "block", "underline" or "ibeam"
+cursor_shape = underline
+
+# Hide links that are no longer valid in url select overlay mode
+#filter_unmatched_urls = true
+
+# Emit escape sequences for extra modified keys
+#modify_other_keys = false
+
+# set size hints for the window
+#size_hints = false
+
+# "off", "left" or "right"
+#scrollbar = off
+
+[colors]
+# 20% background transparency (requires a compositor)
+background = rgba(63, 63, 63, 0.8)
+# special
+foreground      = #e7ebed
+foreground_bold = #e7ebed
+cursor          = #e7ebed
+#background      = #1d262a
+
+# black
+color0  = #435b67
+color8  = #a1b0b8
+
+# red
+color1  = #fc3841
+color9  = #fc746d
+
+# green
+color2  = #5cf19e
+color10 = #adf7be
+
+# yellow
+color3  = #fed032
+color11 = #fee16c
+
+# blue
+color4  = #37b6ff
+color12 = #70cfff
+
+# magenta
+color5  = #fc226e
+color13 = #fc669b
+
+# cyan
+color6  = #59ffd1
+color14 = #9affe6
+
+# white
+color7  = #ffffff
+color15 = #ffffff
+
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+vim: ft=dosini cms=#%s

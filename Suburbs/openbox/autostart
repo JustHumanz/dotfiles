@@ -1,0 +1,24 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/lib/openbox/gnome-settings-daemon >/dev/null; then
+#  /usr/lib/openbox/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null 2>&1; then
+#  gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+compton  --blur-method kawase --blur-background  --backend glx -b &
+nitrogen --restore &
+/home/humanz/.config/autostart/start.sh &
+/home/humanz/.config/polybar/pol-opbox.sh &
+conky -c /home/humanz/.config/conky/conky.conkyrc &
+xinput set-prop "ETPS/2 Elantech Touchpad" "libinput Tapping Enabled" 1 &
+xrandr --auto --output VGA1 --mode 1600x900 --right-of LVDS1 &
