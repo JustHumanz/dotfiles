@@ -60,7 +60,7 @@ System info : U-fetch
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc3.png)
 
-OS  : Arch Linux
-WM  : OpenBox
-File Manager : Thunar
-System info : U-fetch
+OS  : Arch Linux  
+WM  : OpenBox  
+File Manager : Thunar  
+System info : U-fetch  
