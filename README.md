@@ -51,3 +51,16 @@ OS  : Arch Linux
 WM  : OpenBox  
 Bar : Polybar  
 System info : U-fetch  
+
+<p align='center'> Kanono </p>
+
+![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc1.png)
+
+![Kanono-Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc2.png)
+
+![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc3.png)
+
+OS  : Arch Linux
+WM  : OpenBox
+File Manager : Thunar
+System info : U-fetch
