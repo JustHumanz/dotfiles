@@ -1,15 +1,15 @@
-<p align="center"> 
+<p align="center">
   <b> My Dotfiles  
   </b> </p>
-<p align="center">  ̶S̶a̶y̶o̶r̶i̶ Kanzaki Sayaka </p>    
-  
+#### <p align="center">  ̶S̶a̶y̶o̶r̶i̶ Kanzaki Sayaka </p>    
+
 ![screenshot](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanzaki%20Sayaka/scrot.png)
 
 OS  : Arch Linux  
 WM  : OpenBox  
 Bar : Polybar  
 System info : U-fetch  
-<p align="center"> Zero-two theme </p>  
+#### <p align="center"> Zero-two theme </p>  
 
 ![zero two](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Zero-two/i3/Screenshot.png)  
 
@@ -18,7 +18,7 @@ WM  : i3
 Music : Ncmpcpp  
 Bar : Polybar  
 System info : U-fetch  
-<p align="center"> Eriri </p>
+#### <p align="center"> Eriri </p>
 
 ![eriri](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Eriri/ss.png)  
 
@@ -27,7 +27,7 @@ WM  : i3
 Music : Ncmpcpp  
 Bar : Polybar  
 System info : U-fetch  
-<p align="center"> Min-City </p>  
+#### <p align="center"> Min-City </p>  
 
 ![min-city](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Min-city/back.png)  
 
@@ -35,7 +35,7 @@ OS  : Arch Linux
 WM  : OpenBox  
 Bar : Xfce4-Panel  
 System info : U-fetch  
-<p align="center"> Cat-Mid </p>  
+#### <p align="center"> Cat-Mid </p>  
 
 ![Cat-Mid](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Cat-mid/scrot.png)  
 
@@ -43,7 +43,7 @@ OS  : Arch Linux
 WM  : OpenBox  
 Bar : Xfce4-Panel  
 System info : U-fetch  
-<p align="center"> Suburbs </p>  
+#### <p align="center"> Suburbs </p>  
 
 ![Suburbs](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Suburbs/wall.png)  
 
@@ -52,7 +52,7 @@ WM  : OpenBox
 Bar : Polybar  
 System info : U-fetch  
 
-<p align='center'> Kanono </p>
+#### <p align='center'> Kanono </p>
 
 ![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc1.png)
 
@@ -64,3 +64,4 @@ OS  : Arch Linux
 WM  : OpenBox  
 File Manager : Thunar  
 System info : U-fetch  
+Lock Screen : Betterlockscreen
