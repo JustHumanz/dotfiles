@@ -51,11 +51,16 @@ Bar : Polybar
 System info : U-fetch  
 
 #### <p align='center'> Kanono </p>
-<p align='center'> Login-Manager </p>  
-![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc1.png)  
-<p align='center'> Desktop </p>  
-![Kanono-Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc2.png)  
-<p align='center'> Lockscreen </p>  
+<p align='center'> Login-Manager </p>
+
+![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc1.png)
+
+<p align='center'> Desktop </p>
+
+![Kanono-Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc2.png)
+
+<p align='center'> Lockscreen </p>
+
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc3.png)
 
 OS  : Arch Linux  
