@@ -80,11 +80,11 @@ Lock Screen : Betterlockscreen
 
 <p align='center'> Desktop </p>
 
-![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Desktop_2.png)
+![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kano_Gnome/img/Desktop_2.png)
 
 <p align='center'> Lockscreen </p>
 
-![Lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Lockscreen.png)
+![Lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kano_Gnome/img/Lockscreen.png)
 
 OS  : Arch Linux  
 DE  : Gnome 3.36 "Gresk"  
