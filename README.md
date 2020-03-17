@@ -76,7 +76,7 @@ Lock Screen : Betterlockscreen
 
 <p align='center'> Desktop </p>
 
-![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Desktop_1.png)
+![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kano_Gnome/img/Desktop_1.png)
 
 <p align='center'> Desktop </p>
 
