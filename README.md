@@ -68,3 +68,26 @@ WM  : OpenBox
 File Manager : Thunar  
 System info : U-fetch  
 Lock Screen : Betterlockscreen
+
+#### <p align='center'> Kano Gnome </p>
+<p align='center'> Login-Manager </p>
+
+![GDM](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kano_Gnome/img/GDM.png)
+
+<p align='center'> Desktop </p>
+
+![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Desktop_1.png)
+
+<p align='center'> Desktop </p>
+
+![Desktop](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Desktop_2.png)
+
+<p align='center'> Lockscreen </p>
+
+![Lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/img/Lockscreen.png)
+
+OS  : Arch Linux  
+DE  : Gnome 3.36 "Gresk"  
+File Manager : Nautilus  
+System info : Neofetch  
+Lock Screen : Gnome-screensaver
