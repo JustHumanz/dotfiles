@@ -39,7 +39,7 @@
     "eslint-loader": "^2.0.0",
     "eslint-plugin-jsx-control-statements": "^2.2.0",
     "eslint-plugin-react": "^7.4.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsx-control-statements": "^3.2.8",
     "node-sass": "^4.9.0",
     "pixi.js": "^4.7.3",
