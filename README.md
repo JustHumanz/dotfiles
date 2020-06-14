@@ -1,5 +1,5 @@
 # <p align="center"> <b> My Dotfiles  </b> </p>  
-#### <p align="center">  ̶S̶a̶y̶o̶r̶i̶ Kanzaki Sayaka </p>    
+#### <p align="center"> ~~Sayori~~ Kanzaki Sayaka </p>    
 
 ![screenshot](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanzaki%20Sayaka/scrot.png)
 
