@@ -4,7 +4,7 @@
 ![screenshot](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanzaki%20Sayaka/scrot.png)
 
 OS  : Arch Linux  
-WM  : OpenBox  
+WM  : Openbox  
 Bar : Polybar  
 System info : U-fetch  
 #### <p align="center"> Zero-two theme </p>  
@@ -30,7 +30,7 @@ System info : U-fetch
 ![min-city](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Min-city/back.png)  
 
 OS  : Arch Linux  
-WM  : OpenBox  
+WM  : Openbox  
 Bar : Xfce4-Panel  
 System info : U-fetch  
 #### <p align="center"> Cat-Mid </p>  
@@ -38,7 +38,7 @@ System info : U-fetch
 ![Cat-Mid](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Cat-mid/scrot.png)  
 
 OS  : Arch Linux  
-WM  : OpenBox  
+WM  : Openbox  
 Bar : Xfce4-Panel  
 System info : U-fetch  
 #### <p align="center"> Suburbs </p>  
@@ -46,7 +46,7 @@ System info : U-fetch
 ![Suburbs](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Suburbs/wall.png)  
 
 OS  : Arch Linux  
-WM  : OpenBox  
+WM  : Openbox  
 Bar : Polybar  
 System info : U-fetch  
 
@@ -64,7 +64,7 @@ System info : U-fetch
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/dotfiles/master/Kanono/Img/sc3.png)
 
 OS  : Arch Linux  
-WM  : OpenBox  
+WM  : Openbox  
 File Manager : Thunar  
 System info : U-fetch  
 Lock Screen : Betterlockscreen
