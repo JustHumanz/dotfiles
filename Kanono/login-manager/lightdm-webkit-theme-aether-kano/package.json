@@ -41,7 +41,7 @@
     "eslint-plugin-react": "^7.4.0",
     "jquery": "^3.3.1",
     "jsx-control-statements": "^3.2.8",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "pixi.js": "^4.7.3",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
